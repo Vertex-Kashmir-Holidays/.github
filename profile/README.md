@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://vertexkashmirholidays.com/og-image.png" alt="Vertex Kashmir Holidays" width="100%" style="max-width: 900px; border-radius: 12px;" />
 
-<br /><br />
+<br /><br /> -->
 
 <h1>Vertex Kashmir Holidays</h1>
 
