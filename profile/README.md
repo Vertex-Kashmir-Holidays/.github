@@ -13,7 +13,7 @@
 <br />
 
 [![Website](https://img.shields.io/badge/🌐_Website-vertexkashmirholidays.com-0066CC?style=flat-square&logoColor=white)](https://vertexkashmirholidays.com)
-[![Email](https://img.shields.io/badge/📧_contact@vertexkashmirholidays.com-EA4335?style=flat-square)](mailto:contact@vertexkashmirholidays.com)
+[![Email](https://img.shields.io/badge/📧support@vertexkashmirholidays.com-EA4335?style=flat-square)](mailto:support@vertexkashmirholidays.com)
 [![Location](https://img.shields.io/badge/📍_Tangmarg,_Gulmarg-J%26K,_India-2ECC71?style=flat-square)](#)
 
 <br />
