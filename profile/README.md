@@ -13,7 +13,7 @@
 <br />
 
 [![Website](https://img.shields.io/badge/🌐_Website-vertexkashmirholidays.com-0066CC?style=flat-square&logoColor=white)](https://vertexkashmirholidays.com)
-[![Email](https://img.shields.io/badge/📧support@vertexkashmirholidays.com-EA4335?style=flat-square)](mailto:support@vertexkashmirholidays.com)
+[![Email](https://img.shields.io/badge/📧 support@vertexkashmirholidays.com-EA4335?style=flat-square)](mailto:support@vertexkashmirholidays.com)
 [![Location](https://img.shields.io/badge/📍_Tangmarg,_Gulmarg-J%26K,_India-2ECC71?style=flat-square)](#)
 
 <br />
@@ -142,7 +142,7 @@ Planning a trip to Kashmir? We'd love to help you create an unforgettable experi
 | | |
 |---|---|
 | 🌐 **Website** | [vertexkashmirholidays.com](https://vertexkashmirholidays.com) |
-| 📧 **Email** | [contact@vertexkashmirholidays.com](mailto:contact@vertexkashmirholidays.com) |
+| 📧 **Email** | [support@vertexkashmirholidays.com](mailto:support@vertexkashmirholidays.com) |
 | 📍 **Location** | Tangmarg, Gulmarg, Jammu & Kashmir — 193 403, India |
 
 ---
